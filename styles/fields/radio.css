@@ -37,6 +37,7 @@ label + .radio-wrapper {
     position: absolute;
     top: .5rem;
     left: .5rem;
+    transition: all .3s ease;
   }
 
   &:hover, &:focus-within {
